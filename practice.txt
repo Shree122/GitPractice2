@@ -1,1 +1,3 @@
-Learning DOM 
+Hello Git
+Welcome to javascript
+Learning DOM
